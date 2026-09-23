@@ -7,3 +7,7 @@ Repository latihan Version Control menggunakan Git dan GitHub.
 - Nama: Irsyad Falah Maulana P
 - Kelas: XII SIJA 2
 - Minggu: 3
+
+## Profil
+
+Repository ini digunakan untuk latihan workflow branching dan merge Git.
