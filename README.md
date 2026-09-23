@@ -11,3 +11,7 @@ Repository latihan Version Control menggunakan Git dan GitHub.
 ## Profil
 
 Repository ini digunakan untuk latihan workflow branching dan merge Git.
+
+## Kontak
+
+Repository ini dikelola untuk keperluan pembelajaran PaaS dan GitHub.
